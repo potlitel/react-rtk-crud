@@ -1,3 +1,9 @@
+# Info
+
+This repository represents a realization of the practical exercise of the following link [React y Redux Toolkit CRUD (con TailwindCSS)](https://www.youtube.com/watch?v=w2rAP7d6ndg) and looks like this:
+
+<img src="images/Resume.gif" alt="Logo" width="840" height="480">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
